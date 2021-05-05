@@ -5,7 +5,7 @@ This github repository provides a brief summary of the paper [Surprisingly Popul
 ## Experimental Workflow
 
 <p align="center">
-<img src="./images/workflow.png" width=600>
+<img src="./src/workflow.png" width=600>
 </p>
 
 The figure above shows the details of the experiment. 
