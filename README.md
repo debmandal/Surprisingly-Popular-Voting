@@ -5,8 +5,7 @@ This github repository provides a brief summary of the paper [Surprisingly Popul
 ## Experimental Workflow
 
 <p align="center">
-<img src="./src/workflow.png" width=600>
-<figcaption>The Workflow of a Turker</figcaption>
+<img src="./src/workflow.png" width=600 title="The Workflow of a Turker">
 </p>
 
 We performed our experiment on Amazon Mechanical Turk (MTurk) involving 720 turkers. The figure above shows the typical workflow of a Turker. Each Turker responded to 10 questions split evenly among two randomly assigned elicitation formats. We had six different elicitation formats.
