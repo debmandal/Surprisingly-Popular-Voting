@@ -16,7 +16,7 @@ We performed our experiment on Amazon Mechanical Turk (MTurk) involving 720 turk
 ## Findings
 
 ## Description of the Dataset
-
+* Folder [./data/](https://github.com/debmandal/Surprisingly-Popular-Voting/tree/master/data) contains two types of files. 
 
 ## How to Cite Our Work
 
